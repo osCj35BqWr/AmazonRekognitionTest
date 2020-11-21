@@ -2,8 +2,8 @@ import boto3
 import cv2
 import pafy # YouTube video capture
 
-inputImgPath = r".\img\input.jpeg"
-outputImgPath = r".\img\output.jpeg"
+inputImgPath = "input.jpeg"
+outputImgPath = "output.jpeg"
 
 #渋谷スクランブル交差点
 #videoURL = "https://www.youtube.com/watch?v=lkIJYc4UH60"
