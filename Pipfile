@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 boto3 = "*"
 pillow = "*"
+pafy = "*"
+youtube-dl = "*"
+opencv-python = "*"
 
 [dev-packages]
 
